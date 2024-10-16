@@ -1,1 +1,1 @@
-Some script that we want to be public
+Some script that we want to be public# public-scripts
