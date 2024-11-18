@@ -1,1 +1,1 @@
-Some scripts that we want to be public# public-scripts
+These are some public scripts that Stratum customers can use to gather information about their AWS environment.
